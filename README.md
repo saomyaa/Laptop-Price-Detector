@@ -1,4 +1,4 @@
-# Laptop-Price-Detector
+# Laptop-Price-Predictor
 * Laptop Price Predictor is a machine learning project using regression by which the estimation of the laptop prices is done according to the specific features a user needs in a laptop like RAM, Brand, HDD, SSD, PPI etc.
 * The dataset used is recently updated and may vary according to the time period.
 * The first step done in this project is data cleaning to reduce the noise in the data.
